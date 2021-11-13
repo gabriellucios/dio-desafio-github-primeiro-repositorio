@@ -1,0 +1,2 @@
+Para atualizar as alterações feitas no repositório de minha máquina para o GitHub " git add. " ou " git add -A "
+Para ficar atualizado no repositório GitHub " git commit -m " ( Adicionar entre aspas no comando para incluir anotações referentes ao que foi alterado ou adicionado )
